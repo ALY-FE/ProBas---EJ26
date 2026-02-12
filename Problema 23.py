@@ -1,0 +1,10 @@
+#Problema 23: Comparaciones.
+print("Programa que compara dos valores")
+num1 = float(input("Ingrese el primer valor: "))
+num2 = float(input("Ingrese el segundo valor: "))
+print(num1, "==", num2, num1==num2)
+print(num1, "!=", num2, num1!=num2)
+print(num1, ">", num2, num1>num2)
+print(num1, "<", num2, num1<num2)
+print(num1, ">=", num2, num1>=num2)
+print(num1, "<=", num2, num1<=num2)
